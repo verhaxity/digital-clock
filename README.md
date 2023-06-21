@@ -27,7 +27,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## License
 - Feel free to use the source code provided in this project for both personal and professional purposes. You are allowed to modify, distribute, and adapt the code as per your requirements.
 
-- However, it is required to provide attribution to the original [author](https://linktr.ee/sona_code) in the project documentation or any derived work. This attribution should clearly state that the original source code was obtained from this project.
+- However, it is required to provide attribution to the original [author](https://www.instagram.com/vrrxty/) in the project documentation or any derived work. This attribution should clearly state that the original source code was obtained from this project.
 
 
 ## Contact
