@@ -34,9 +34,9 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 For any inquiries or feedback, please reach out to me through the following channels:
 
 - Email: [email me](mailto:faaiqkh124@gmail.com)
-- Twitter: [@looksnumb](https://twitter.com/looksnumb)
+- Twitter: [@looksnumb](https://twitter.com/picklearrow)
 - GitHub : [verhaxity](https://github.com/verhaxity/)
-- Instagram : [@vrrxty](https://www.instagram.com/vrrxty/)
+- Instagram : [@vrrxty](https://www.instagram.com/verhaxity/)
 - LinkedIn: [Faaiq Mushtaq](https://www.linkedin.com/in/faaiq_khan/)
 
 Feel free to connect with me and let's discuss the project or any other interesting ideas!
